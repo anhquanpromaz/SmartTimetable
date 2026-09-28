@@ -1,0 +1,6 @@
+{
+  "name": "Thời Khóa Biểu Thông Minh - Smart Timetable & Planner",
+  "description": "Ứng dụng quản lý thời khóa biểu học tập thông minh, hỗ trợ vẽ trang trí, tải ảnh nền, điểm danh mỗi ngày, nhắc nhở soạn sách vở và lời chúc cuối tuần ý nghĩa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
